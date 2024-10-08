@@ -3,10 +3,9 @@
  
 LEER ESTO:
 
-Pasos a seguir para la configuración del proyecto:
+-Se puede ver el proyecto desarrollado en el video adjuntado
 
--Utilizamos la misma librería que la de la práctica 4 para las texturas,
-asi que hay que instalarlas de la misma forma que hicimos en la práctica.
+Pasos a seguir para la configuración del proyecto:
 
 -Hay que meter las imágenes que vienen adjuntadas en la carpeta del proyecto de Visual Studio,
 esta suele ser: 'C:\Users\nombreUsuario\source\repos\NombreProyecto\NombreProyecto'.
